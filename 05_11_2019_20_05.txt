@@ -1,0 +1,10 @@
+
+Interface: 192.168.1.19 --- 0x11
+  Internet Address      Physical Address      Type
+  192.168.1.1           44-e9-dd-20-98-14     dynamic   
+  192.168.1.12          38-71-de-d6-5a-f3     dynamic   
+  192.168.1.14          88-e9-fe-9f-2a-e3     dynamic   
+  192.168.1.17          b8-e9-37-33-52-fe     dynamic   
+  192.168.1.255         ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    

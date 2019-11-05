@@ -4,3 +4,18 @@ arp -a
 netsh interface IP delete arpcache
 
 for /L %i in (0,1,255) do ping -n 1 -w 250 192.168.1.%i>>ip-list.txt
+
+
+tracert 192.168.1.12
+tracert 192.168.1.14
+tracert 192.168.1.17
+
+
+IPCONFIG/RELEASE
+IPCONFIG/REnew
+
+firewall set opmode disable
+firewall set opmode enable
+
+shutdown -i
+shutdown -a
